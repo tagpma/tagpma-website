@@ -2,8 +2,8 @@
 
 TAGPMA has accredited the following Certificate Authorities
 
-| Name                | Alias                  | Type     | URL                            |
-| ------------------- | ---------------------- | -------- | ------------------------------ |
+| **Name**            | **Alias**              | **Type** | **URL**                        |
+| :------------------ | :--------------------- | :------- | :----------------------------- |
 | CILogon Silver CA 1 | cilogon-silver         | mics     | http://ca.cilogon.org/         |
 | DigiCert Assured ID Root CA |  DigiCertAssuredIDRootCA-Root | classic | http://www.digicert-grid.com/ |
 | DigiCert Grid CA-1        | DigiCertGridCA-1-Classic        | classic | http://www.digicert-grid.com/ |
