@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.navitem {
+  display: inline;
+  padding-left: 0px;
+  padding-right: 2em;
+}
+
+.navitem a:hover {
+  text-decoration: underline;
+}
+
+.inner {
+  width: 75%;
+  min-width: 620px;
+}
